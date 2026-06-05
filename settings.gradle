@@ -1,0 +1,2 @@
+rootProject.name = "DayTracker"
+include ':app'
